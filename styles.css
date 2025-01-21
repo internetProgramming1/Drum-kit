@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    flex-direction: column;
+ }
+
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+
+#drumKit {
+    width: 612px;
+    height: 612px;
+}
