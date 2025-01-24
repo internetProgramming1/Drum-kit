@@ -1,10 +1,12 @@
-Title: [Your assignment title here]  
-Group: [Your group number]  
+Title: [DRUM KIT]  
+Group: [05]  
 
 Group Members:  
 
 | Name               | ID          |
 |--------------------|-------------|
-| [Your Name]        | [Your ID]   |
-| [Group Member 1]   | [Member ID] |
-| [Group Member 2]   | [Member ID] |
+| Mery Demissie      | ETS0909/15  |
+| Mekdelawit Belay   | ETS0890/15  |
+| Nueman Mohammednur | ETS1101/15  |
+| Meskerem Fekede    | ETS0914/15  |
+| Meti Seboka        | ETS0918/15  |
