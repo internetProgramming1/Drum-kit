@@ -1,7 +1,7 @@
-Title: [DRUM KIT]  
-Group: [05]  
+# Title: [DRUM KIT]  
+# Group: [05]  
 
-Group Members:  
+## Group Members:  
 
 | Name               | ID          |
 |--------------------|-------------|
